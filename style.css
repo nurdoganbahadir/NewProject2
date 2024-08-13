@@ -1,0 +1,13 @@
+.container {
+  height: 10rem;
+  border: 2px solid red;
+  border-radius: 10px;
+  background-color: brown;
+  margin-top: 10rem;
+}
+/* body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+} */
